@@ -10,6 +10,9 @@ int main() {
     cout << "Digite qualquer coisa pra mim..." << std::endl;    
     cin >> teste;
     
+    cout << "Isso foi um teste";
+    
+    
     cout << teste;
     
     return 0;
